@@ -1,0 +1,1 @@
+Searched up how to: makefile, dicts, 
