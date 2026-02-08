@@ -80,3 +80,35 @@ result = freaky_func(x, b, str)
 print(result)
 
 
+def FizzBuzz(n):
+    for i in range(1,n):
+        if i == 1:
+            print([*range(1,n)])
+        if i % 3 == 0 and i % 5 != 0:
+            print(f'Fizz: {i}')
+        elif i % 5 == 0 and i % 3 != 0 : 
+            print(f'Buzz: {i}')
+        elif i % 3 == 0 and i % 5 == 0:
+            print(f'FizzBuzz: {i}')
+
+n = 16
+FizzBuzz(n)
+
+def is_palindrom(s):
+    s = s.replace(" ", "").lower()
+
+    j = len(s) - 1
+    i = 0
+    b = True
+    for i in range(len(s)):
+        if i == j:
+            return b
+        print(s[i], s[j])
+        if s[i] != s[j] and i!=j:
+            b = False
+            return b 
+        j -= 1
+    return b 
+    
+s = "race car"
+print(is_palindrom(s))
