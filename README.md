@@ -8,7 +8,7 @@ Goal: build discipline, deepen Python skills, and ship features.
 
 ## Phase 1
 - Day 1: Python Basics + FizzBuzz and isPalindrome
-- Day 2: 
+- Day 2: Strings, Lists, Dict + WordFreq & TwoSum
 - Day 3:
 - Day 4:
 - Day 5:
