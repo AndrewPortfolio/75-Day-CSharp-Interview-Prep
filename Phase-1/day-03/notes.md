@@ -1,0 +1,5 @@
+- Didn't have much time today
+- Worked on only Word Freq
+    - Messed up on it bc I am still thinking in terms of indices instead of tokens
+    - Also I am stuck in C++ thinking about control and indices when I should focus more on pythong tools (i.e. .split())
+- Didn't get to Two sum I will redo these two tomorrow again as well
