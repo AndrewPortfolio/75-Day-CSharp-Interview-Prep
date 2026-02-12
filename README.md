@@ -1,4 +1,4 @@
-# 75-Day-Python-Interview-Prep
+# 75-Day-C#-Interview-Prep
 Tracking daily progress, consistency, and learning.  
 Goal: build discipline, deepen Python skills, and ship features.
 
