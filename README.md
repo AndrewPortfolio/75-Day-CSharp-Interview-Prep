@@ -7,8 +7,11 @@ Goal: build discipline, deepen Python skills, and ship features.
 ## 📅 Start Date: 07 — 02 - 2026
 
 ## Phase 1
-- Day 1: Python Basics + FizzBuzz and isPalindrome
+<!-- - Day 1: Python Basics + FizzBuzz and isPalindrome
 - Day 2: Strings, Lists, Dict + WordFreq & TwoSum
+- Day 3: Strings, Lists, Dict + WordFreq Pt.2  -->
+- Day 1: Strings, ints, doubles, classes, structs, general C# setup
+- Day 2:
 - Day 3:
 - Day 4:
 - Day 5:
