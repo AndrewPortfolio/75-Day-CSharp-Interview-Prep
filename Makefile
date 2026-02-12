@@ -1,2 +1,2 @@
 run: 
-	cd Phase-1/day-01 && dotnet run
+	dotnet run --project Phase-1/day-02 

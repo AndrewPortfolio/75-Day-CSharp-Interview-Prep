@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/HQ/75-Day-Python-Interview-Prep/Phase-1/day-01/day-01.csproj": {}
+    "/Volumes/HQ/75-Day-Python-Interview-Prep/75-Day-Python-Interview-Prep.csproj": {}
   },
   "projects": {
-    "/Volumes/HQ/75-Day-Python-Interview-Prep/Phase-1/day-01/day-01.csproj": {
+    "/Volumes/HQ/75-Day-Python-Interview-Prep/75-Day-Python-Interview-Prep.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/HQ/75-Day-Python-Interview-Prep/Phase-1/day-01/day-01.csproj",
-        "projectName": "day-01",
-        "projectPath": "/Volumes/HQ/75-Day-Python-Interview-Prep/Phase-1/day-01/day-01.csproj",
+        "projectUniqueName": "/Volumes/HQ/75-Day-Python-Interview-Prep/75-Day-Python-Interview-Prep.csproj",
+        "projectName": "75-Day-Python-Interview-Prep",
+        "projectPath": "/Volumes/HQ/75-Day-Python-Interview-Prep/75-Day-Python-Interview-Prep.csproj",
         "packagesPath": "/Volumes/HQ/.nuget/packages/",
-        "outputPath": "/Volumes/HQ/75-Day-Python-Interview-Prep/Phase-1/day-01/obj/",
+        "outputPath": "/Volumes/HQ/75-Day-Python-Interview-Prep/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Volumes/HQ/.nuget/NuGet/NuGet.Config"

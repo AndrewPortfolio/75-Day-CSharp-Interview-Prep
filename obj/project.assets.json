@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/Users/andrewpham/.nuget/packages/": {}
+    "/Volumes/HQ/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/andrewpham/75-Day-CSharp-Interview-Prep/75-Day-CSharp-Interview-Prep.csproj",
-      "projectName": "75-Day-CSharp-Interview-Prep",
-      "projectPath": "/Users/andrewpham/75-Day-CSharp-Interview-Prep/75-Day-CSharp-Interview-Prep.csproj",
-      "packagesPath": "/Users/andrewpham/.nuget/packages/",
-      "outputPath": "/Users/andrewpham/75-Day-CSharp-Interview-Prep/obj/",
+      "projectUniqueName": "/Volumes/HQ/75-Day-Python-Interview-Prep/75-Day-Python-Interview-Prep.csproj",
+      "projectName": "75-Day-Python-Interview-Prep",
+      "projectPath": "/Volumes/HQ/75-Day-Python-Interview-Prep/75-Day-Python-Interview-Prep.csproj",
+      "packagesPath": "/Volumes/HQ/.nuget/packages/",
+      "outputPath": "/Volumes/HQ/75-Day-Python-Interview-Prep/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/andrewpham/.nuget/NuGet/NuGet.Config"
+        "/Volumes/HQ/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"

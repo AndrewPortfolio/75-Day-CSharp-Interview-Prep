@@ -1,0 +1,15 @@
+/Volumes/HQ/75-Day-Python-Interview-Prep/Phase-1/day-02/bin/Debug/net10.0/day-02
+/Volumes/HQ/75-Day-Python-Interview-Prep/Phase-1/day-02/bin/Debug/net10.0/day-02.deps.json
+/Volumes/HQ/75-Day-Python-Interview-Prep/Phase-1/day-02/bin/Debug/net10.0/day-02.runtimeconfig.json
+/Volumes/HQ/75-Day-Python-Interview-Prep/Phase-1/day-02/bin/Debug/net10.0/day-02.dll
+/Volumes/HQ/75-Day-Python-Interview-Prep/Phase-1/day-02/bin/Debug/net10.0/day-02.pdb
+/Volumes/HQ/75-Day-Python-Interview-Prep/Phase-1/day-02/obj/Debug/net10.0/day-02.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/HQ/75-Day-Python-Interview-Prep/Phase-1/day-02/obj/Debug/net10.0/day-02.AssemblyInfoInputs.cache
+/Volumes/HQ/75-Day-Python-Interview-Prep/Phase-1/day-02/obj/Debug/net10.0/day-02.AssemblyInfo.cs
+/Volumes/HQ/75-Day-Python-Interview-Prep/Phase-1/day-02/obj/Debug/net10.0/day-02.csproj.CoreCompileInputs.cache
+/Volumes/HQ/75-Day-Python-Interview-Prep/Phase-1/day-02/obj/Debug/net10.0/day-02.sourcelink.json
+/Volumes/HQ/75-Day-Python-Interview-Prep/Phase-1/day-02/obj/Debug/net10.0/day-02.dll
+/Volumes/HQ/75-Day-Python-Interview-Prep/Phase-1/day-02/obj/Debug/net10.0/refint/day-02.dll
+/Volumes/HQ/75-Day-Python-Interview-Prep/Phase-1/day-02/obj/Debug/net10.0/day-02.pdb
+/Volumes/HQ/75-Day-Python-Interview-Prep/Phase-1/day-02/obj/Debug/net10.0/day-02.genruntimeconfig.cache
+/Volumes/HQ/75-Day-Python-Interview-Prep/Phase-1/day-02/obj/Debug/net10.0/ref/day-02.dll

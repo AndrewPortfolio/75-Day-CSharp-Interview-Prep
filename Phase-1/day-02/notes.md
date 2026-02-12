@@ -1,0 +1,8 @@
+- Searched up: How to write funcs in C#, .ToLower(), Regex.Replace(), .Split(), .Length, dict initialization in c#, .ContainsKey()
+- Worked on the basics again, and learning different tools that I can use to implement WordFreq 
+- Rewrote WordFreq numerous times to learn the syntax and the different string cleaning tools that I learned 
+- The refractored Person class allows me to get and set the class variables, and created a constructor that allows me to assign vals to new Person
+- The refactores Point struct allows me to get and set the struct variables, and a constructor that allows me to me assign vals to new Points
+- Nullable types aren't allowed on ints unless made optional and strings are allowed to be null
+- Value types are typically seen in classes (i.e. Person p1 = new Person("s", "p") and Person p2 = p1, which means that p1 and p2 point to the same memory space so if you edit p2 then you also edit p1) 
+- Reference types is a copy of the value (i.e. Point p1 = 4 Point p2 = p1, if you edit p2 then p1 stays the same since p2 is a reference of p1)
