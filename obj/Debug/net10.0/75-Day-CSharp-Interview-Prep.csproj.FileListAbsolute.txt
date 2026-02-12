@@ -1,0 +1,5 @@
+/Users/andrewpham/75-Day-CSharp-Interview-Prep/obj/Debug/net10.0/75-Day-CSharp-Interview-Prep.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewpham/75-Day-CSharp-Interview-Prep/obj/Debug/net10.0/75-Day-CSharp-Interview-Prep.AssemblyInfoInputs.cache
+/Users/andrewpham/75-Day-CSharp-Interview-Prep/obj/Debug/net10.0/75-Day-CSharp-Interview-Prep.AssemblyInfo.cs
+/Users/andrewpham/75-Day-CSharp-Interview-Prep/obj/Debug/net10.0/75-Day-CSharp-Interview-Prep.csproj.CoreCompileInputs.cache
+/Users/andrewpham/75-Day-CSharp-Interview-Prep/obj/Debug/net10.0/75-Day-CSharp-Interview-Prep.sourcelink.json

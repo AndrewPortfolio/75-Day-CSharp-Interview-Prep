@@ -1,2 +1,2 @@
 run: 
-	python3 Phase-1/day-03/practice.py
+	cd Phase-1/day-01 && dotnet run
