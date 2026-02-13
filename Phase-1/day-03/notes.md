@@ -1,2 +1,4 @@
 - Reviewed syntax from pervious days 
 - Wrote new funcs to test syntax: still struggling on syntax for dicts and strings
+- Have the logic down for WordFreq (my brain is still stuck in python syntax)
+- Did TwoSum. Struggled with the optimized solution. 
