@@ -1,0 +1,2 @@
+- Reviewed syntax from pervious days 
+- Wrote new funcs to test syntax: still struggling on syntax for dicts and strings

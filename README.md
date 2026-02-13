@@ -12,7 +12,7 @@ Goal: build discipline, deepen Python skills, and ship features.
 - Day 3: Strings, Lists, Dict + WordFreq Pt.2  -->
 - Day 1: Strings, ints, doubles, classes, structs, general C# setup
 - Day 2: WordFreq, funcs, classes, built in lib funcs for cleaning strings 
-- Day 3:
+- Day 3: TwoSum + Word Freq, Review/Test of basic syntax 
 - Day 4:
 - Day 5:
 - Day 6:
